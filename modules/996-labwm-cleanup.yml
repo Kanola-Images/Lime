@@ -1,0 +1,4 @@
+name: vanilla-cleanup
+type: shell
+commands:
+# TODO: add cleanup commands
