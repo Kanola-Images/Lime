@@ -1,8 +1,7 @@
-name: plasma-core
+name: labwc-core
 type: apt
 source:
   packages:
-  - xorg
-  - xserver-xephyr
+  - labwc
 
   # TODO: add the core packages required to start labwm and openbox including display manager and their dependencies
