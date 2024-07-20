@@ -3,8 +3,10 @@ type: apt
 source:
   packages:
   - xorg
+  - xorg-server
   - xwayland
   - lightdm
+  - lightdm-gtk-greeter
 
   - labwc
   - openbox
