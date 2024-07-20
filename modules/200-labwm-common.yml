@@ -2,4 +2,5 @@ name: plasma-common
 type: apt
 source:
   packages:
-  # TODO: add commonly used libraries and apps
+  - waybar
+  - swayidle
