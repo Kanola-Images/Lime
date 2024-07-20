@@ -1,9 +1,0 @@
-name: labwc-core
-type: apt
-source:
-  packages:
-  - labwc
-  - greetd
-  - tuigreet
-
-  # TODO: add the core packages required to start labwm and openbox including display manager and their dependencies

@@ -1,0 +1,7 @@
+name: labwc-core
+type: apt
+source:
+  packages:
+  - labwc
+  - greetd
+  - tuigreet

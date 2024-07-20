@@ -4,7 +4,7 @@
   "registry": "ghcr.io",
   "registryService": "registry.ghcr.io",
   "registryAPIVersion": "v2",
-  "name": "kanola-images/labwm",
+  "name": "kanola-images/labwc",
   "tag": "main",
   "iPkgMngPre": "lpkg --unlock",
   "iPkgMngPost": "lpkg --lock",
