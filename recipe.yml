@@ -47,6 +47,7 @@ stages:
   - name: cleanup
     type: shell
     commands:
+    - chmod u+s /sbin/unix_chkpwd
     - apt autoremove -y
     - apt clean
     - lpkg --lock
