@@ -2,6 +2,12 @@ name: labwc-core
 type: apt
 source:
   packages:
+  - xorg
+  - wayland
+  - lightdm
+
   - labwc
+  - openbox
+
   - greetd
   - tuigreet
