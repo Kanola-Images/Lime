@@ -2,4 +2,5 @@ name: plasma-essentials
 type: apt
 source:
   packages:
+  - nano #TODO: remove placeholder
   # TODO: add essential but noncore programs.

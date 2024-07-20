@@ -2,4 +2,5 @@ name: plasma-utilities
 type: apt
 source:
   packages:
+  - nano #TODO: remove placeholder
   # TODO: add system utilities such as partition manager
