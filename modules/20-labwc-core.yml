@@ -2,6 +2,7 @@ name: labwc-core
 type: apt
 source:
   packages:
+  - -o DPkg::Options::="--force-confold"
   - xorg
   - xserver-xephyr
   - xwayland
