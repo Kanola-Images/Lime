@@ -1,5 +1,5 @@
 name: vanilla-cleanup
 type: shell
 commands:
-  - nano #TODO: remove placeholder
+  - echo Placeholder #TODO: remove placeholder
   # TODO: add cleanup commands
