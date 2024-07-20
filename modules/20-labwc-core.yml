@@ -5,8 +5,6 @@ source:
   - xorg
   - xserver-xephyr
   - xwayland
-  - lightdm
-  - lightdm-gtk-greeter
 
   - labwc
   - openbox
