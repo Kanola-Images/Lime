@@ -3,7 +3,7 @@ type: apt
 source:
   packages:
   - xorg
-  - xorg-server
+  - xserver-xephyr
   - xwayland
   - lightdm
   - lightdm-gtk-greeter
