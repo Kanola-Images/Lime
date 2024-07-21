@@ -2,7 +2,6 @@ name: plasma-common
 type: apt
 source:
   packages:
-  - -o DPkg::Options::="--force-confold"
   - swayidle
   - wlr-randr
   - kanshi

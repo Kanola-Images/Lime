@@ -2,6 +2,7 @@ name: plasma-essentials
 type: apt
 source:
   packages:
+  - -o DPkg::Options::="--force-confold"
   - bemenu
   - dunst
   - waybar # TODO: Investigate replacing with yambar for X11 and Wayland compatibility
