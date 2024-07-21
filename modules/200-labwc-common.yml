@@ -4,3 +4,4 @@ source:
   packages:
   - waybar
   - swayidle
+  - -o DPkg::Options::="--force-confold"
