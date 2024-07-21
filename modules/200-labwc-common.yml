@@ -2,6 +2,11 @@ name: plasma-common
 type: apt
 source:
   packages:
-  - waybar
-  - swayidle
   - -o DPkg::Options::="--force-confold"
+  - swayidle
+  - wlr-randr
+  - kanshi
+  - grim # TODO: Add some wrapper script for easy use
+  - slurp
+  - brightnessctl
+  - brightness-udev

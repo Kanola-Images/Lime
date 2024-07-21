@@ -3,3 +3,5 @@ type: apt
 source:
   packages:
   - bemenu
+  - dunst
+  - waybar # TODO: Investigate replacing with yambar for X11 and Wayland compatibility
