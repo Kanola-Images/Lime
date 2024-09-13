@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://deb.debian.org/debian
+Suites: experimental
+Architectures: amd64
+Components: main 
+# Signed-By: /usr/share/keyrings/vanilla_keyring.gpg
