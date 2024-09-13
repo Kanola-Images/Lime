@@ -1,0 +1,7 @@
+name: labwc-core
+type: apt
+source:
+  packages:
+  - -o DPkg::Options::="--force-confold"
+  - -t experimental
+  - labwc

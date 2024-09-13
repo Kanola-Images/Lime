@@ -7,7 +7,7 @@ source:
   - xserver-xephyr
   - xwayland
 
-  - labwc
+  # - labwc
   - openbox
 
   - greetd
