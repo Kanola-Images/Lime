@@ -6,3 +6,4 @@ source:
   - ffmpeg
   - mpv
   - thunar # TODO: Investigate alternative file managers
+  - foot
