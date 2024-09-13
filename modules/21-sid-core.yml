@@ -1,0 +1,10 @@
+name: labwc-core
+type: apt
+source:
+  packages:
+  - -o DPkg::Options::="--force-confold"
+  - -t sid
+  - libdisplay-info2
+  - libdrm2
+  - libwayland-client0
+  - libwayland-server0

@@ -39,7 +39,8 @@ stages:
     type: includes
     includes:
       - modules/20-labwc-core.yml
-      - modules/21-experimental-core.yml
+      - modules/21-sid-core.yml
+      - modules/22-experimental-core.yml
       - modules/30-labwc-essentials.yml
       - modules/161-labwc-utilities.yml
       - modules/200-labwc-common.yml
