@@ -10,3 +10,4 @@ source:
   - slurp
   - brightnessctl
   - brightness-udev
+  - libinput-tools
